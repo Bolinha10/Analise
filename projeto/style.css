@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(6, 6, 7);
+    color: #fff;
+    
+}
+
+
+.Neymar{
+    float: left;
+    width: 800px;
+    text-align: center;
+    margin-left: 5%;
+    
+}
+.Messi{
+    width: 790px;
+    height: 790px;
+}
+h2{
+    text-align: center;
+}
